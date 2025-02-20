@@ -60,8 +60,6 @@ public class TicTacToe
 	public String getWinner(String game)
 	{
 		String victor = "";
-		
-		
 		// 8 normal outcomes
 		//X X X
 		//Tranitive property a=b and b=c then a=c
@@ -125,7 +123,7 @@ public class TicTacToe
 			output+="\n";
 		}
 		
-		//output+=TicTacToe.getWinner();
+		output+=TicTacToe.getWinner();
 		//output+="\n";
 		
 
