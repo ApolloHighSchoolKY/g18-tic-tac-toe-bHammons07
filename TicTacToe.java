@@ -123,7 +123,7 @@ public class TicTacToe
 			output+="\n";
 		}
 		
-		output+=TicTacToe.getWinner();
+		//output+=TicTacToe.getWinner();
 		//output+="\n";
 		
 
